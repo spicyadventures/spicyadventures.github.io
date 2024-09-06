@@ -11,42 +11,19 @@
         <!-- Core theme CSS (includes Bootstrap)-->
         <link href="css/styles.css" rel="stylesheet" />
     </head>
-    <body>
-        <!-- Responsive navbar-->
-        <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
-            <div class="container">
-                <a class="navbar-brand" href="#">Start Bootstrap</a>
-                <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation"><span class="navbar-toggler-icon"></span></button>
-                <div class="collapse navbar-collapse" id="navbarSupportedContent">
-                    <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
-                        <li class="nav-item"><a class="nav-link active" aria-current="page" href="#">Home</a></li>
-                        <li class="nav-item"><a class="nav-link" href="#">Link</a></li>
-                        <li class="nav-item dropdown">
-                            <a class="nav-link dropdown-toggle" id="navbarDropdown" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">Dropdown</a>
-                            <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="navbarDropdown">
-                                <li><a class="dropdown-item" href="#">Action</a></li>
-                                <li><a class="dropdown-item" href="#">Another action</a></li>
-                                <li><hr class="dropdown-divider" /></li>
-                                <li><a class="dropdown-item" href="#">Something else here</a></li>
-                            </ul>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-        </nav>
         <!-- Page content-->
         <div class="container">
             <div class="text-center mt-5">
-                <h3>Dailon's Portfolio of Projects for ENGR 11A</h3>
+                <h1>Dailon's Portfolio of Projects for ENGR 11A</h1>
                 <p class="lead">Fully built with my own hands</p>
                 <p>(& Bootstrap v5.2.3 ;)</p>
             </div>
         </div>
         <div class="container">
             <div class="text-center mt-8">
-                 <h1>Project 1</h1>
+                 <h3>Project 1</h3>
                  <p>Part 1 - Nametag</p>
-                 <p>The first print that I worked on was the keychain, I found this to be a relatively easy print because the template was pre-made and all we had to edit was the name. This print was done on the Prusa mini                       using the Prusa native software for slicing. The settings used during the print were .15mm speed presets, no supports/brim, 15% infill, PLA filament, and 3.6 grams of used filament. The print went well                        with no problems in the workflow, simply slicing the template and uploading the files onto the USB for the printer was all that was required. The final product of the print was solid with only a little                        bit of accuracy lacking in the small details of the letters along with some stringing there, which I assume is because of the tiny size of the print and the speed preset used, besides this though it was a                     successful print.</p>
+                 <p>The first print that I worked on was the keychain, I found this to be a relatively easy print because the template was pre-made and all we had to edit was the name. This print was done on the Prusa mini                       using the Prusa native software for slicing. The settings used during the print were .15mm speed presets, no supports/brim, 15% infill, PLA filament, and 3.6 grams of used filament. The print went well                        with no problems in the workflow, simply slicing the template and uploading the files onto the USB for the printer was all that was required. The final product of the print was solid with only a little                        bit of accuracy lacking in the small details of the letters along with some stringing there, which I assume is because of the tiny size of the print and the speed preset used, besides this though it was a successful print.</p>
             </div>
                 
         <!-- Bootstrap core JS-->
